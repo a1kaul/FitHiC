@@ -1,4 +1,7 @@
-# Fit-Hi-C-FITHIC
+# Fit-Hi-C
+
+NOTICE: Fit-Hi-C is deprecated, and is currently without support. Please use the Python version hosted on pip. 
+
 
 [Fit-Hi-C](https://noble.gs.washington.edu/proj/fit-hi-c/) is a tool for assigning statistical confidence estimates to intra-chromosomal contact maps produced by genome-wide genome architecture assays such as Hi-C. Compared to Python original, Fit-Hi-C R port has the following advantages:
 
